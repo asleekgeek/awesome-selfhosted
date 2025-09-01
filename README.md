@@ -14,106 +14,108 @@ See [Contributing](#contributing).
 
 ## Table of contents
 
-- [Software](#software)
-  - [Analytics](#analytics)
-  - [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)
-  - [Automation](#automation)
-  - [Backup](#backup)
-  - [Blogging Platforms](#blogging-platforms)
-  - [Booking and Scheduling](#booking-and-scheduling)
-  - [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)
-  - [Calendar & Contacts](#calendar--contacts)
-  - [Communication - Custom Communication Systems](#communication---custom-communication-systems)
-  - [Communication - Email - Complete Solutions](#communication---email---complete-solutions)
-  - [Communication - Email - Mail Delivery Agents](#communication---email---mail-delivery-agents)
-  - [Communication - Email - Mail Transfer Agents](#communication---email---mail-transfer-agents)
-  - [Communication - Email - Mailing Lists and Newsletters](#communication---email---mailing-lists-and-newsletters)
-  - [Communication - Email - Webmail Clients](#communication---email---webmail-clients)
-  - [Communication - IRC](#communication---irc)
-  - [Communication - SIP](#communication---sip)
-  - [Communication - Social Networks and Forums](#communication---social-networks-and-forums)
-  - [Communication - Video Conferencing](#communication---video-conferencing)
-  - [Communication - XMPP - Servers](#communication---xmpp---servers)
-  - [Communication - XMPP - Web Clients](#communication---xmpp---web-clients)
-  - [Community-Supported Agriculture (CSA)](#community-supported-agriculture-csa)
-  - [Conference Management](#conference-management)
-  - [Content Management Systems (CMS)](#content-management-systems-cms)
-  - [Customer Relationship Management (CRM)](#customer-relationship-management-crm)
-  - [Database Management](#database-management)
-  - [DNS](#dns)
-  - [Document Management](#document-management)
-  - [Document Management - E-books](#document-management---e-books)
-  - [Document Management - Institutional Repository and Digital Library Software](#document-management---institutional-repository-and-digital-library-software)
-  - [Document Management - Integrated Library Systems (ILS)](#document-management---integrated-library-systems-ils)
-  - [E-commerce](#e-commerce)
-  - [Federated Identity & Authentication](#federated-identity--authentication)
-  - [Feed Readers](#feed-readers)
-  - [File Transfer & Synchronization](#file-transfer--synchronization)
-  - [File Transfer - Distributed Filesystems](#file-transfer---distributed-filesystems)
-  - [File Transfer - Object Storage & File Servers](#file-transfer---object-storage--file-servers)
-  - [File Transfer - Peer-to-peer Filesharing](#file-transfer---peer-to-peer-filesharing)
-  - [File Transfer - Single-click & Drag-n-drop Upload](#file-transfer---single-click--drag-n-drop-upload)
-  - [File Transfer - Web-based File Managers](#file-transfer---web-based-file-managers)
-  - [Games](#games)
-  - [Games - Administrative Utilities & Control Panels](#games---administrative-utilities--control-panels)
-  - [Genealogy](#genealogy)
-  - [Generative Artificial Intelligence (GenAI)](#generative-artificial-intelligence-genai)
-  - [Groupware](#groupware)
-  - [Health and Fitness](#health-and-fitness)
-  - [Human Resources Management (HRM)](#human-resources-management-hrm)
-  - [Identity Management](#identity-management)
-  - [Internet of Things (IoT)](#internet-of-things-iot)
-  - [Inventory Management](#inventory-management)
-  - [Knowledge Management Tools](#knowledge-management-tools)
-  - [Learning and Courses](#learning-and-courses)
-  - [Manufacturing](#manufacturing)
-  - [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)
-  - [Media Management](#media-management)
-  - [Media Streaming](#media-streaming)
-  - [Media Streaming - Audio Streaming](#media-streaming---audio-streaming)
-  - [Media Streaming - Multimedia Streaming](#media-streaming---multimedia-streaming)
-  - [Media Streaming - Video Streaming](#media-streaming---video-streaming)
-  - [Miscellaneous](#miscellaneous)
-  - [Money, Budgeting & Management](#money-budgeting--management)
-  - [Monitoring](#monitoring)
-  - [Note-taking & Editors](#note-taking--editors)
-  - [Office Suites](#office-suites)
-  - [Password Managers](#password-managers)
-  - [Pastebins](#pastebins)
-  - [Personal Dashboards](#personal-dashboards)
-  - [Photo Galleries](#photo-galleries)
-  - [Polls and Events](#polls-and-events)
-  - [Proxy](#proxy)
-  - [Recipe Management](#recipe-management)
-  - [Remote Access](#remote-access)
-  - [Resource Planning](#resource-planning)
-  - [Search Engines](#search-engines)
-  - [Self-hosting Solutions](#self-hosting-solutions)
-  - [Software Development](#software-development)
-  - [Software Development - API Management](#software-development---api-management)
-  - [Software Development - Continuous Integration & Deployment](#software-development---continuous-integration--deployment)
-  - [Software Development - FaaS & Serverless](#software-development---faas--serverless)
-  - [Software Development - Feature Toggle](#software-development---feature-toggle)
-  - [Software Development - IDE & Tools](#software-development---ide--tools)
-  - [Software Development - Localization](#software-development---localization)
-  - [Software Development - Low Code](#software-development---low-code)
-  - [Software Development - Project Management](#software-development---project-management)
-  - [Software Development - Testing](#software-development---testing)
-  - [Static Site Generators](#static-site-generators)
-  - [Status / Uptime pages](#status--uptime-pages)
-  - [Task Management & To-do Lists](#task-management--to-do-lists)
-  - [Ticketing](#ticketing)
-  - [Time Tracking](#time-tracking)
-  - [URL Shorteners](#url-shorteners)
-  - [Video Surveillance](#video-surveillance)
-  - [VPN](#vpn)
-  - [Web Servers](#web-servers)
-  - [Wikis](#wikis)
-- [List of Licenses](#list-of-licenses)
-- [Anti-features](#anti-features)
-- [External Links](#external-links)
-- [Contributing](#contributing)
-- [License](#license)
+- [Awesome-Selfhosted](#awesome-selfhosted)
+  - [Table of contents](#table-of-contents)
+  - [Software](#software)
+    - [Analytics](#analytics)
+    - [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp)
+    - [Automation](#automation)
+    - [Backup](#backup)
+    - [Blogging Platforms](#blogging-platforms)
+    - [Booking and Scheduling](#booking-and-scheduling)
+    - [Bookmarks and Link Sharing](#bookmarks-and-link-sharing)
+    - [Calendar \& Contacts](#calendar--contacts)
+    - [Communication - Custom Communication Systems](#communication---custom-communication-systems)
+    - [Communication - Email - Complete Solutions](#communication---email---complete-solutions)
+    - [Communication - Email - Mail Delivery Agents](#communication---email---mail-delivery-agents)
+    - [Communication - Email - Mail Transfer Agents](#communication---email---mail-transfer-agents)
+    - [Communication - Email - Mailing Lists and Newsletters](#communication---email---mailing-lists-and-newsletters)
+    - [Communication - Email - Webmail Clients](#communication---email---webmail-clients)
+    - [Communication - IRC](#communication---irc)
+    - [Communication - SIP](#communication---sip)
+    - [Communication - Social Networks and Forums](#communication---social-networks-and-forums)
+    - [Communication - Video Conferencing](#communication---video-conferencing)
+    - [Communication - XMPP - Servers](#communication---xmpp---servers)
+    - [Communication - XMPP - Web Clients](#communication---xmpp---web-clients)
+    - [Community-Supported Agriculture (CSA)](#community-supported-agriculture-csa)
+    - [Conference Management](#conference-management)
+    - [Content Management Systems (CMS)](#content-management-systems-cms)
+    - [Customer Relationship Management (CRM)](#customer-relationship-management-crm)
+    - [Database Management](#database-management)
+    - [DNS](#dns)
+    - [Document Management](#document-management)
+    - [Document Management - E-books](#document-management---e-books)
+    - [Document Management - Institutional Repository and Digital Library Software](#document-management---institutional-repository-and-digital-library-software)
+    - [Document Management - Integrated Library Systems (ILS)](#document-management---integrated-library-systems-ils)
+    - [E-commerce](#e-commerce)
+    - [Federated Identity \& Authentication](#federated-identity--authentication)
+    - [Feed Readers](#feed-readers)
+    - [File Transfer \& Synchronization](#file-transfer--synchronization)
+    - [File Transfer - Distributed Filesystems](#file-transfer---distributed-filesystems)
+    - [File Transfer - Object Storage \& File Servers](#file-transfer---object-storage--file-servers)
+    - [File Transfer - Peer-to-peer Filesharing](#file-transfer---peer-to-peer-filesharing)
+    - [File Transfer - Single-click \& Drag-n-drop Upload](#file-transfer---single-click--drag-n-drop-upload)
+    - [File Transfer - Web-based File Managers](#file-transfer---web-based-file-managers)
+    - [Games](#games)
+    - [Games - Administrative Utilities \& Control Panels](#games---administrative-utilities--control-panels)
+    - [Genealogy](#genealogy)
+    - [Generative Artificial Intelligence (GenAI)](#generative-artificial-intelligence-genai)
+    - [Groupware](#groupware)
+    - [Health and Fitness](#health-and-fitness)
+    - [Human Resources Management (HRM)](#human-resources-management-hrm)
+    - [Identity Management](#identity-management)
+    - [Internet of Things (IoT)](#internet-of-things-iot)
+    - [Inventory Management](#inventory-management)
+    - [Knowledge Management Tools](#knowledge-management-tools)
+    - [Learning and Courses](#learning-and-courses)
+    - [Manufacturing](#manufacturing)
+    - [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)
+    - [Media Management](#media-management)
+    - [Media Streaming](#media-streaming)
+    - [Media Streaming - Audio Streaming](#media-streaming---audio-streaming)
+    - [Media Streaming - Multimedia Streaming](#media-streaming---multimedia-streaming)
+    - [Media Streaming - Video Streaming](#media-streaming---video-streaming)
+    - [Miscellaneous](#miscellaneous)
+    - [Money, Budgeting \& Management](#money-budgeting--management)
+    - [Monitoring](#monitoring)
+    - [Note-taking \& Editors](#note-taking--editors)
+    - [Office Suites](#office-suites)
+    - [Password Managers](#password-managers)
+    - [Pastebins](#pastebins)
+    - [Personal Dashboards](#personal-dashboards)
+    - [Photo Galleries](#photo-galleries)
+    - [Polls and Events](#polls-and-events)
+    - [Proxy](#proxy)
+    - [Recipe Management](#recipe-management)
+    - [Remote Access](#remote-access)
+    - [Resource Planning](#resource-planning)
+    - [Search Engines](#search-engines)
+    - [Self-hosting Solutions](#self-hosting-solutions)
+    - [Software Development](#software-development)
+    - [Software Development - API Management](#software-development---api-management)
+    - [Software Development - Continuous Integration \& Deployment](#software-development---continuous-integration--deployment)
+    - [Software Development - FaaS \& Serverless](#software-development---faas--serverless)
+    - [Software Development - Feature Toggle](#software-development---feature-toggle)
+    - [Software Development - IDE \& Tools](#software-development---ide--tools)
+    - [Software Development - Localization](#software-development---localization)
+    - [Software Development - Low Code](#software-development---low-code)
+    - [Software Development - Project Management](#software-development---project-management)
+    - [Software Development - Testing](#software-development---testing)
+    - [Static Site Generators](#static-site-generators)
+    - [Status / Uptime pages](#status--uptime-pages)
+    - [Task Management \& To-do Lists](#task-management--to-do-lists)
+    - [Ticketing](#ticketing)
+    - [Time Tracking](#time-tracking)
+    - [URL Shorteners](#url-shorteners)
+    - [Video Surveillance](#video-surveillance)
+    - [VPN](#vpn)
+    - [Web Servers](#web-servers)
+    - [Wikis](#wikis)
+  - [List of Licenses](#list-of-licenses)
+  - [Anti-features](#anti-features)
+  - [External Links](#external-links)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 --------------------
 
@@ -156,6 +158,8 @@ _Related: [Database Management](#database-management), [Personal Dashboards](#pe
 - [Swetrix](https://swetrix.com/) - Ultimate, open-source web analytics to satisfy all your needs. ([Demo](https://swetrix.com/projects/STEzHcB1rALV), [Source Code](https://github.com/Swetrix/selfhosting)) `AGPL-3.0` `Docker`
 - [Umami](https://umami.is/) - Simple, fast, privacy-focused alternative to Google Analytics. ([Demo](https://analytics.umami.is/share/LGazGOecbDtaIwDr/umami.is), [Source Code](https://github.com/umami-software/umami)) `MIT` `Nodejs/Docker`
 - [Vince](https://www.vinceanalytics.com/) - Web analytics and dashboard (alternative to Google Analytics). ([Demo](https://demo.vinceanalytics.com/v1/share/vinceanalytics.com?auth=Ls9tV4pzqOn7BJ7-&demo=true), [Source Code](https://github.com/vinceanalytics/vince)) `AGPL-3.0` `Go/Docker/K8S/deb`
+- [Fathom Analytics](https://usefathom.com/) - Simple, privacy-focused web analytics (alternative to Google Analytics). ([Source Code](https://github.com/usefathom/fathom)) `MIT` `Go`
+- [Pirsch](https://pirsch.io/) - Privacy-friendly, cookie-free web analytics with a simple dashboard. ([Demo](https://pirsch.io/demo), [Source Code](https://github.com/pirsch-analytics/pirsch)) `AGPL-3.0` `Go/Docker`
 
 
 ### Archiving and Digital Preservation (DP)
@@ -551,6 +555,7 @@ _Related: [Conference Management](#conference-management)_
 - [MiroTalk P2P](https://p2p.mirotalk.com) - Simple, secure, fast real-time video conferences up to 4k and 60fps, compatible with all browsers and platforms. ([Demo](https://p2p.mirotalk.com/newcall), [Source Code](https://github.com/miroslavpejic85/mirotalk)) `AGPL-3.0` `Nodejs/Docker`
 - [MiroTalk SFU](https://sfu.mirotalk.com) - Simple, secure, scalable real-time video conferences up to 4k, compatible with all browsers and platforms. ([Demo](https://sfu.mirotalk.com/newroom), [Source Code](https://github.com/miroslavpejic85/mirotalksfu)) `AGPL-3.0` `Nodejs/Docker`
 - [plugNmeet](https://www.plugnmeet.org/) - Scalable and high performance web conferencing system. ([Demo](https://demo.plugnmeet.com/login.html), [Source Code](https://github.com/mynaparrot/plugNmeet-server)) `MIT` `Docker/Go`
+- [Element Call](https://call.element.io/) - Group calls powered by Matrix, no downloads required. ([Source Code](https://github.com/vector-im/element-call)) `Apache-2.0` `Nodejs/Docker`
 
 
 ### Communication - XMPP - Servers
@@ -882,6 +887,7 @@ _Related: [Groupware](#groupware)_
 - [Seafile](https://www.seafile.com/en/home/) - File hosting and sharing solution primary for teams and organizations. ([Source Code](https://github.com/haiwen/seafile)) `GPL-2.0/GPL-3.0/AGPL-3.0/Apache-2.0` `C`
 - [Syncthing](https://syncthing.net/) - Syncthing is an open source peer-to-peer file synchronisation tool. ([Source Code](https://github.com/syncthing/syncthing)) `MPL-2.0` `Go/Docker/deb`
 - [Unison](https://www.cis.upenn.edu/~bcpierce/unison/) - Unison is a file-synchronization tool for OSX, Unix, and Windows. ([Source Code](https://github.com/bcpierce00/unison)) `GPL-3.0` `deb/OCaml`
+- [Rclone](https://rclone.org/) - Command line program to manage files on cloud storage with web UI available. ([Source Code](https://github.com/rclone/rclone)) `MIT` `Go/Docker`
 
 
 ### File Transfer - Distributed Filesystems
@@ -1091,6 +1097,7 @@ Collaborative software or [groupware](https://en.wikipedia.org/wiki/Collaborativ
 - [Mere Medical](https://meremedical.co/) `⚠` - Manage all of your medical records from Epic MyChart, Cerner, and OnPatient patient portals in one place. Privacy-focused, self-hosted, and offline-first. ([Demo](https://demo.meremedical.co), [Source Code](https://github.com/cfu288/mere-medical)) `GPL-3.0` `Docker/Nodejs`
 - [OpenEMR](https://www.open-emr.org/) - Electronic health records and medical practice management solution. ([Demo](https://www.open-emr.org/demo/), [Source Code](https://github.com/openemr/openemr)) `GPL-3.0` `PHP/Docker`
 - [wger](https://wger.de/) - Web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ([Demo](https://wger.de/en/dashboard), [Source Code](https://github.com/wger-project/wger)) `AGPL-3.0` `Python/Docker`
+- [Fittrackee](https://samr1.github.io/FitTrackee/) - Self-hosted fitness tracker for running, cycling, and hiking activities. ([Demo](https://fittrackee.samr1.github.io/), [Source Code](https://github.com/SamR1/FitTrackee)) `AGPL-3.0` `Python/Docker`
 
 
 ### Human Resources Management (HRM)
@@ -1131,6 +1138,8 @@ A [human resources management system](https://en.wikipedia.org/wiki/Human_resour
 - [ioBroker](https://www.iobroker.net/) - Integration platform for the Internet of Things, focused on building automation, smart metering, ambient assisted living, process automation, visualization and data logging. ([Source Code](https://github.com/ioBroker/ioBroker)) `MIT` `Nodejs`
 - [LHA](https://github.com/javalikescript/lha) - Light Home Automation application that is fully extensible using Blockly, HTML or Lua. It includes extensions such as ConBee, Philips Hue or Z-Wave JS. `MIT` `Lua`
 - [Node RED](https://nodered.org/) - Browser-based flow editor that helps you wiring hardware devices, APIs and online services to create IoT solutions. ([Source Code](https://github.com/node-red/node-red)) `Apache-2.0` `Nodejs/Docker`
+- [Zigbee2MQTT](https://www.zigbee2mqtt.io/) - Bridge between Zigbee devices and MQTT. ([Source Code](https://github.com/Koenkk/zigbee2mqtt)) `GPL-3.0` `Nodejs/Docker`
+- [ESPHome](https://esphome.io/) - System to control ESP8266/ESP32 microcontrollers by simple yet powerful configuration files and control them remotely through Home Automation systems. ([Source Code](https://github.com/esphome/esphome)) `MIT` `Python/Docker`
 - [openHAB](https://www.openhab.org) - Vendor and technology agnostic open source software for home automation. ([Source Code](https://github.com/openhab/openhab-core)) `EPL-2.0` `Java`
 - [OpenRemote](https://openremote.io) - IoT Asset management, Flow Rules and WHEN-THEN rules, Data visualization, Edge Gateway. ([Demo](https://demo.openremote.io/), [Source Code](https://github.com/openremote/openremote)) `AGPL-3.0` `Java`
 - [SIP Irrigation Control](https://dan-in-ca.github.io/SIP/) - Open source software for sprinkler/irrigation control. ([Source Code](https://github.com/Dan-in-CA/SIP)) `GPL-3.0` `Python`
@@ -1269,6 +1278,7 @@ _Related: [Automation](#automation), [Media Streaming](#media-streaming), [Media
 - [Watcharr](https://github.com/sbondCo/Watcharr) - Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup. ([Demo](https://beta.watcharr.app/)) `MIT` `Docker`
 - [ydl_api_ng](https://github.com/Totonyus/ydl_api_ng) - Simple youtube-dl REST API to launch downloads on a distant server. `GPL-3.0` `Python`
 - [YoutubeDL-Server](https://github.com/nbr23/youtube-dl-server) - Web and REST interface to Youtube-DL for downloading videos onto a server. `MIT` `Python/Docker`
+- [Komga](https://komga.org/) - Media server for comics/mangas/BDs with API and OPDS support. ([Source Code](https://github.com/gotson/komga)) `MIT` `Java/Docker`
 - [yt-dlp Web UI](https://github.com/marcopeocchi/yt-dlp-web-ui) - Web GUI for yt-dlp. `MPL-2.0` `Docker/Go/Nodejs`
 
 
@@ -1518,6 +1528,8 @@ _Related: [Wikis](#wikis)_
 - [minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
 - [Note Mark](https://notemark.docs.enchantedcode.co.uk/) - Minimal web-based Markdown notes app. ([Source Code](https://github.com/enchant97/note-mark)) `AGPL-3.0` `Docker`
 - [Oddmuse](https://oddmuse.org/) - Simple wiki engine written in Perl. No database required. ([Source Code](https://github.com/kensanata/oddmuse)) `GPL-3.0` `Perl`
+- [Logseq](https://logseq.com/) - Privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files. ([Source Code](https://github.com/logseq/logseq)) `AGPL-3.0` `Clojure/Docker`
+- [SiYuan](https://b3log.org/siyuan/) - Privacy-first personal knowledge management system that supports fine-grained block-level reference and Markdown WYSIWYG. ([Source Code](https://github.com/siyuan-note/siyuan)) `AGPL-3.0` `Docker/Go`
 - [Overleaf](https://www.overleaf.com/) - Web-based collaborative LaTeX editor. ([Source Code](https://github.com/overleaf/overleaf)) `AGPL-3.0` `Ruby`
 - [Plainpad](https://alextselegidis.com/get/plainpad/) - Modern note taking application for the cloud, utilizing the best features of progressive web apps technology. ([Demo](https://alextselegidis.com/try/plainpad/), [Source Code](https://github.com/alextselegidis/plainpad)) `GPL-3.0` `PHP`
 - [SilverBullet](https://silverbullet.md/) - Note-taking application optimized for people with a hacker mindset. ([Demo](https://play.silverbullet.md/), [Source Code](https://github.com/silverbulletmd/silverbullet), [Clients](https://silverbullet.md/Libraries)) `MIT` `Docker/Deno`
@@ -1614,6 +1626,7 @@ _Related: [Monitoring](#monitoring), [Bookmarks and Link Sharing](#bookmarks-and
 - [Starbase 80](https://github.com/notclickable-jordan/starbase-80) - A simple homepage with an iPad-style application grid, for mobile and desktop. One JSON configuration file. `MIT` `Docker`
 - [Web-Portal](https://github.com/enchant97/web-portal) - A python web app designed to allow a easy way to manage the links to all of your web services. `AGPL-3.0` `Docker/Python`
 - [Your Spotify](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`
+- [Flame](https://github.com/pawelmalak/flame) - Self-hosted startpage for your server with built-in editors, online icon library and many customization options. `MIT` `Docker/Nodejs`
 
 
 ### Photo Galleries
@@ -1695,6 +1708,8 @@ _Related: [Web Servers](#web-servers)_
 - [Squid](http://www.squid-cache.org/) - Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages. ([Source Code](https://code.launchpad.net/squid)) `GPL-2.0` `C/deb`
 - [Tinyproxy](https://tinyproxy.github.io/) - Light-weight HTTP/HTTPS proxy daemon. ([Source Code](https://github.com/tinyproxy/tinyproxy)) `GPL-2.0` `C/deb`
 - [txtdot](https://tempoworks.github.io/documentation) - A HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts. ([Demo](https://txt.dc09.ru), [Source Code](https://github.com/TxtDot/txtdot)) `MIT` `Nodejs/Docker`
+- [Traefik](https://traefik.io/) - Modern HTTP reverse proxy and load balancer that makes deploying microservices easy. ([Source Code](https://github.com/traefik/traefik)) `MIT` `Go/Docker`
+- [Caddy](https://caddyserver.com/) - Powerful, enterprise-ready, open source web server with automatic HTTPS. ([Source Code](https://github.com/caddyserver/caddy)) `Apache-2.0` `Go/Docker`
 
 
 ### Recipe Management
@@ -1713,6 +1728,7 @@ Software and tools for managing [recipes](https://en.wikipedia.org/wiki/Recipe).
 - [Specifically Clementines](https://davideshay.github.io/groceries/) - Grocery shopping app (previously Groceries), providing reliable sync with multiple users/devices (web/Android/iOS), recipes and integration with Tandoor. ([Source Code](https://github.com/davideshay/groceries)) `MIT` `Docker`
 - [Tamari](https://tamariapp.com) - Recipe manager web app with a built-in collection of recipes. Organize by favorites and categories, create shopping lists, and plan meals. ([Demo](https://app.tamariapp.com), [Source Code](https://github.com/alexbates/Tamari)) `GPL-3.0` `Docker/Python`
 - [What To Cook?](https://github.com/kassner/whattocook) - Get a recipe to cook today, based on the ingredients you have at home. `AGPL-3.0` `Docker`
+- [Tandoor Recipes](https://docs.tandoor.dev/) - Recipe manager with meal planning and shopping lists. ([Demo](https://app.tandoor.dev/accounts/login/?demo), [Source Code](https://github.com/TandoorRecipes/recipes)) `MIT` `Python/Docker`
 
 
 ### Remote Access
@@ -1802,6 +1818,7 @@ Software for easy installation, management and configuration of self-hosted serv
 - [WikiSuite](https://wikisuite.org) - The most comprehensive and integrated Free / Libre / Open Source enterprise software suite. ([Source Code](https://wikisuite.org/Source-Code)) `GPL-3.0/LGPL-2.1/Apache-2.0/MPL-2.0/MPL-1.1/MIT/AGPL-3.0` `Shell/Perl/deb`
 - [xsrv](https://xsrv.readthedocs.io/) - Install and manage self-hosted services/applications, on your own server(s). ([Source Code](https://github.com/nodiscc/xsrv)) `GPL-3.0` `Ansible/Shell`
 - [YunoHost](https://yunohost.org/) - Server operating system aiming to make self-hosting accessible to everyone. ([Demo](https://yunohost.org/#/try), [Source Code](https://github.com/YunoHost)) `AGPL-3.0` `Python/Shell`
+- [Cosmos Server](https://cosmos-cloud.io/) - Secure and easy self-hosted platform for running server applications. ([Source Code](https://github.com/azukaar/Cosmos-Server)) `Apache-2.0` `Go/Docker`
 
 
 ### Software Development
@@ -2100,6 +2117,7 @@ _Related: [Media Streaming - Video Streaming](#media-streaming---video-streaming
 - [SentryShot](https://codeberg.org/SentryShot/sentryshot) - Video surveillance management system. `GPL-2.0` `Docker/Rust`
 - [Viseron](https://viseron.netlify.app/) - Self-hosted, local-only NVR and AI Computer Vision software. With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, office or any other place you want to monitor. ([Source Code](https://github.com/roflcoopter/viseron)) `MIT` `Docker`
 - [Zoneminder](https://www.zoneminder.com/) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. ([Source Code](https://github.com/ZoneMinder/ZoneMinder)) `GPL-2.0` `PHP/deb`
+- [Shinobi](https://shinobi.video/) - Open source CCTV software written in Node.js. ([Demo](https://demo.shinobi.video/), [Source Code](https://github.com/ShinobiCCTV/Shinobi)) `GPL-3.0` `Nodejs/Docker`
 
 
 ### VPN
